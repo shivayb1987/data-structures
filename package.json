@@ -1,0 +1,10 @@
+{
+  "name": "itsy-bitsy-data-structures",
+  "version": "1.0.0",
+  "author": "James Kyle <me@thejameskyle.com> (thejameskyle.com)",
+  "license": "CC-BY-4.0",
+  "main": "./itsy-bitsy-data-structures.js",
+  "devDependencies": {
+    "assert": "^1.4.1"
+  }
+}
